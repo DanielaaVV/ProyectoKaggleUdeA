@@ -5,3 +5,4 @@ Integrantes del equipo:
 - Juan Pablo Ramos Vélez - 1193518347 - Ingeniería de sistemas
 
 #Segunda entrega: https://www.youtube.com/watch?v=U-C1kTvqicI
+#Entrega final: https://youtu.be/16r3F7AnfVo
